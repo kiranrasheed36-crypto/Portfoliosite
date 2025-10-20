@@ -10,7 +10,7 @@ html.body{
   margin-right: 0;
   margin-left: 0;
 }
-.container,.container-fluid{
+.container, .container-fluid{
   overflow-x: hidden;
 }
 
